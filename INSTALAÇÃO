@@ -1,0 +1,6 @@
+# Duck.sh
+Ferramenta feita com o intuito de agilizar a organização do ambiente.
+###INSTALAÇAO###
+sudo git clone https://github.com/Tom-Sec/Duck.sh.git
+Execute --------> ./Duck.sh 
+caso precise dar permissão a ferramente execute -----> sudo chmod +x Duck.sh <------
