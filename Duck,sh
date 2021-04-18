@@ -1,0 +1,4 @@
+# Duck.sh
+Ferramenta feita com o intuito de agilizar a organização do ambiente, executando instalações e upgrade nos terminais Kali Linux e para celular, Termux. Esta é minha primeira ferramenta, Programei em shell script, desculpa se estiver algo desatualizado. ;)
+###INSTALAÇAO###
+sudo git clone https://github.com/Tom-Sec/Duck.sh.git
