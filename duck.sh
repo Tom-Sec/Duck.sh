@@ -87,3 +87,4 @@ echo -e "${ver}Saindo...${fim}" ; clear && ls
 else echo -e "\e[31;7;5mOpção Invalida\e[m"
 
 fi
+
